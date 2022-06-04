@@ -6,10 +6,10 @@ draft: false
 slug: "DenoJS-and-how-it-is-different-from-node"
 category: "Node"
 tags:
-  - "NodeJS"
-  - "DenoJS"
+  - "Node.js"
+  - "Deno.js"
 description: "Deno is a javascript runtime same as Node, reached its 1.0 release status on May 13, 2020. Deno was developed by Ryan Dahl, the same person who developed Node. Two Javascript run-times by same person."
-socialImage: "/media/notebook.jpg"
+socialImage: "/media/dino.jpg"
 ---
 
 ![Welcome to Deno World!](/media/dino.jpg)
