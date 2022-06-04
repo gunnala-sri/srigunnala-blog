@@ -15,7 +15,10 @@ socialImage: "/media/title.png"
 
 ![Alexa Custom Skill Account Linking](/media/title.png)
 
-This article expects you to have basic understanding of the Alexa Custom Skill and how to build a sample skill. If not, no worries. Just jump to - LINK
+This article expects you to have basic understanding of the Alexa Custom Skill and how to build a sample skill. If not, no worries. Just jump to my  other blog to get started with Alexa Custom Skill - link below.
+
+<a href="https://srigunnala.com/posts/2019-08-10---Custom-Alexa-Skill-with-Azure-Function/Custom-Alexa-Skill-with-Azure-Function" target="_blank">Build your first Alexa skill with Alexa.NET and Azure Functions</a>
+
 
 Now lets get to the next level, Account Linking. Amazon defines Account Linking as
 
