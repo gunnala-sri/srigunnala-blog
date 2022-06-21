@@ -4,7 +4,7 @@ date: "2022-06-19"
 template: "post"
 draft: false
 slug: "How-to-debug-Azure-Logic-Apps"
-category: "Node"
+category: "Azure"
 tags:
   - "Azure"
   - "Logic Apps"
