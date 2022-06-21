@@ -12,6 +12,8 @@ tags:
 description: "One of the most frequent problems we face during troubleshooting logic app is,  identifying the run associated to a logic app. It is a bit easy when we have few runs in a day. When a problem is reported, we could ask for time when it occurred and use the time stamp to find the run, through run history."
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1AxS2uUgM-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 One of the most frequent problems we face during troubleshooting logic app is,  identifying the run associated to a logic app.
 
 It is a bit easy when we have few runs in a day. When a problem is reported, we could ask for time when it occurred and use the time stamp to find the run, through run history. But when have 
