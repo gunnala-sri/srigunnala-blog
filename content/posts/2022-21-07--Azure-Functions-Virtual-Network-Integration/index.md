@@ -12,7 +12,7 @@ tags:
 description: "Azure Function VNET integration is supported by Premium Azure functions, App Service Plan minimum Basic tier and of course App Service Environment. When we create an azure function without any VNET integration, it will have a public IP address and it will be exposed to the internet. This Blog will explain how we can secure the Azure function with VNET integration? How we can create a private endpoint to secure incoming traffic? How can we restrict outbound traffic from the Azure function to VNET?"
 ---
 
-<iframe width="640" height="315" src="https://youtu.be/hvHloEGqI-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="315" src="https://www.youtube.com/embed/hvHloEGqI-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We can host the function app mainly in two ways
 
@@ -79,5 +79,7 @@ The <a href="https://youtu.be/hvHloEGqI-A" target="_blank">video</a> demonstrate
     2. We will restrict the azure storage account access to **sg-vent**
     3. Now we again access the azure function from VM.
     
-    <a href="https://youtu.be/hvHloEGqI-A" target="_blank">Watch it here</a>.
+
+
+<a href="https://youtu.be/hvHloEGqI-A" target="_blank">**Watch it here**</a>.
     
